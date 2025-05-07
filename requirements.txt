@@ -1,0 +1,4 @@
+# Add the dependencies here. For example:
+# numpy==1.21.0
+# zlib==1.2.11
+# Add any other dependencies your project uses.
