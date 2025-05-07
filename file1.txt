@@ -1,0 +1,5 @@
+# Firewall Configuration
+ALLOW TCP 80
+ALLOW TCP 443
+DENY ALL
+LOGGING ENABLED
